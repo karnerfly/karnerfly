@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Toufique Al Ajay</h1>
 <h3 align="center">A passionate backend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pureparadise56b&label=Profile%20views&color=0e75b6&style=flat" alt="pureparadise56b" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=karnerfly&label=Profile%20views&color=0e75b6&style=flat" alt="karnerfly" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pureparadise56b" alt="pureparadise56b" /></a> </p>
+<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=karnerfly" alt="karnerfly" /> </p>
 
-- 🔭 I’m currently working on **tea shop ecommerce project**
+- 🔭 I’m currently working on **cusaathi project**
 
-- 🌱 I’m currently learning **Backend with Nodejs and Express**
+- 🌱 I’m currently learning **Cyber Security**
 
-- 👨‍💻 All of my projects are available at [https://toufique-al-ajay.netlify.app](https://toufique-al-ajay.netlify.app)
+- 👨‍💻 All of my projects are available at []()
 
-- 💬 Ask me about **Express, Mongodb, PostgreSQL, Javascript, GraphQL**
+- 💬 Ask me about **GO, Cyber Security, Backend Development**
 
 - 📫 How to reach me **toufique26ajay@gmail.com**
 
@@ -21,7 +21,7 @@
 <p align="left">
 <a href="https://twitter.com/toufiquea59624" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="toufiquea59624" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/toufique al ajay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="toufique al ajay" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ajay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ajay" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@Toufique_Al_Ajay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@Toufique_Al_Ajay" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -30,8 +30,8 @@
 
 <h3 align="left">Support:</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pureparadise56b&show_icons=true&locale=en&layout=compact" alt="pureparadise56b" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=karnerfly&show_icons=true&locale=en&layout=compact" alt="karnerfly" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pureparadise56b&show_icons=true&locale=en" alt="pureparadise56b" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karnerfly&show_icons=true&locale=en" alt="karnerfly" /></p>
 
-<p><a href="https://www.buymeacoffee.com/Ajay"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Ajay" /></a></p><br><br><br>
+<p><a href="#"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Ajay" /></a></p>
