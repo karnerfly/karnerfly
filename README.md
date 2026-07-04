@@ -32,6 +32,4 @@
 
 <p><img align="left" src="https://github-readme-stats.shion.dev/api/top-langs/?username=karnerfly&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="karnerfly" /></p>
 
-<p>&nbsp;<img align="center" src="https://streak-stats.demolab.com/?user=karnerfly&theme=dark&hide_border=false" alt="karnerfly" /></p>
-
 <p><a href="#"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Ajay" /></a></p>
